@@ -9,3 +9,7 @@ Dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DV
 ## Visualisation of Transfer Learning
 
 ![download](https://github.com/Leanse1/Atmospheric-Cloud-Image-Classification/assets/138543566/d1dbee18-f659-41a6-9b40-1c292afd563d)
+
+
+https://github.com/Leanse1/Cow-weight-estimation/assets/138543566/32b44a70-f23c-46e6-9ccc-2b356e596b7a
+
