@@ -2,3 +2,5 @@ opencv-python
 pillow
 ultralytics
 torch
+opencv-python-headless==4.8.1.78
+opencv-python
