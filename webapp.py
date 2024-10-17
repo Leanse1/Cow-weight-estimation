@@ -94,7 +94,7 @@ def visualize_combined_results(img, model1, model2):
                 cv2.putText(img_rgb, label, (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
     
     if dist:
-        x = 11
+        x = 4
         lb = 0.45359237
         dist1cm = (x * dist1) / dist
         dist2cm = (x * dist2) / dist
