@@ -7,7 +7,7 @@ import os
 import streamlit as st
 
 # Load YOLOv8 models
-model1 = YOLO("models/sticker.pt")
+model1 = YOLO("models/eye.pt")
 model2 = YOLO("models/cow.pt")
 
 # Calculate the Euclidean distance between two points
@@ -105,7 +105,7 @@ def visualize_combined_results(img, model1, model2):
     return img_rgb, None
 
 # Streamlit app
-st.title("Cattle Weight Estimation and Segmentation")
+st.title("Innova8s Cattle Weight Estimation and Segmentation")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png"])
 
